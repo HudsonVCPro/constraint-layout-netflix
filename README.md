@@ -1,5 +1,5 @@
-# constraint-layout-netflix
+# Netflix Interface
 
-Work in progress.
+Netflix interface, without working code, just to test and use more functions of the layouts(Constraint, Grid, etc.) that Android Studio disponibilize.
 
-Trying to make the Netflix interface, without working code, just to test and use more functions of the layouts(Constraint, Grid, etc.) that Android Studio disponibilize.
+All credits to Jamilton Damasceno.
